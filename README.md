@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TBirdPIT
+- 👋 Hi, I’m @VETReaper
 - 👀 I’m interested in ... Learning All IT related functions 
-- 🌱 I’m currently learning ... CCNA
-- 💞️ I’m looking to collaborate on ... Any
+- 🌱 I’m currently working on ... CCNP
+- 💞️ I’m looking to collaborate on ... Anything and everything
 - 📫 How to reach me ... 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I love my service dog and learning
