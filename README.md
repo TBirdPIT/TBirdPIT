@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on ... a New Application and System
 - 💞️ I’m looking to collaborate on ... Anything and everything
 - 📫 How to reach me ... find my website
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... I am a male (Sir) 
 - ⚡ Fun fact: ... I love my service dog and learning
 
 <!---
