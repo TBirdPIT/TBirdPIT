@@ -20,11 +20,11 @@ Your support helps us:
 
 | Category                  | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
-| 🧠 Development            | Building and maintaining backend (FastAPI), frontend (React Native, Electron), and smart contracts (Hyperledger Fabric). |
+| 🧠 Development            | Building and maintaining backend  |
 | ☁️ Infrastructure         | Hosting on Azure, CI/CD pipelines, monitoring, and secure data storage.     |
 | 🔍 Compliance & Security  | Ensuring HIPAA, NIST 800-53, and FHIR compliance; penetration testing.       |
 | 📣 Outreach & Support     | Veteran onboarding, community engagement, and support services.             |
-| 🧪 Research & Innovation  | Integrating new AI models, biometric sensors, and behavioral health tools.   |
+| 🧪 Research & Innovation  | Integrating new tools.   |
 
 ---
 
