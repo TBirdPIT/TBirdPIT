@@ -31,10 +31,8 @@ Your support helps us:
 ## 🙌 Ways to Support
 
 - 💖 [Sponsor us on GitHub](https://github.com/sponsors/ttcl-vector127)
-- ☕ [Buy us a coffee on Ko-fi](https://ko-fi.com/vetbattlebuddy)
-- ❤️ [Support us on Patreon](https://www.patreon.com/vetbattlebuddy)
-- 🌍 [Join our Open Collective](https://opencollective.com/vetbattlebuddy)
-- 🌐 [Donate directly](https://vetbattlebuddy.com/donate)
+
+- 🌐 [Donate directly](https://ttcl.pro)
 
 ---
 
@@ -45,5 +43,4 @@ Every contribution—big or small—helps us build a better future for those who
 
 ## 📲 Donate via PayPal
 Scan the QR code below to donate directly via PayPal:
-
-![Donate via PayPal](./paypal.png)
+Donation QR on webpage provided above.
