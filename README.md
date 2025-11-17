@@ -7,7 +7,10 @@
 - ⚡ Fun fact: ... I do it all for my son's future! And I teach this stuff as well. 
 
 💖 Funding Vet Battle Buddy
-BattleBuddy is a veteran-first platform dedicated to transforming how veterans access healthcare, benefits, and support services. We integrate federal APIs, AI-powered assistance, and secure health coordination to create a seamless experience that puts veterans' needs first—reducing wait times, improving outcomes, and driving systemic efficiency across the veteran care ecosystem.
+VetBattleBuddy is a secure, cloud-native, enterprise-grade AI-powered support system designed to provide U.S. military veterans with comprehensive support including VA disability claims assistance, mental health resources, and career transition services.
+⚠️ IMPORTANT: This project is configured for Azure Government cloud deployment to ensure federal compliance (FedRAMP High, HIPAA, DoD IL4). 
+🎯 Our Mission
+Our mission is to build a veteran-first digital ally that eliminates delays in care, actively works to prevent suicide, restores dignity to every veteran's life, and provides comprehensive support for every step of their post-service journey.
 
 🎯 Why Support Us?
 Your support helps us:
