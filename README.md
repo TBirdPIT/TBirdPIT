@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @VETReaper
-- 👀 I’m interested in ... Tech, coding, AI, football, my dog. Family always comes first though!
-- 🌱 I’m currently working on ... a New Application and System for Veterans
+- 👀 I’m interested in ... Veteran Issues, Tech, coding, AI, football, my service dog. God and Family are my #1 priority in my life. They are the reason I abuilding this system.
+- 🌱 I’m currently working on ... THE SYSTEM for Veterans
 - 😄 Pronouns: ... Seriously ???? - "Code is like humor. When you have to explain it, it’s bad."
 * 🔭 I’m currently working on: VetBattleBuddy.ai
-* 🌱 I’m currently learning: Microsoft Certified: Azure Solutions Architect Expert (AZ-305)
-* 💬 Ask me about: How to help fellow Veterans like myself....
-I am a developer focused on building efficient, scalable solutions. This repository is a glimpse into how I think, how I code, and what I'm currently building.
+* 🌱 I’m currently learning: Microsoft Certified: Azure Solutions Architect Expert (AZ-305) as well as a few other Certificates 
+* 💬 Ask me about: Whatever comes to you mind.   Bottom line
+I am a developer focused on building efficient, scalable solutions. This repository is a glimpse into how I think, how I code, and what I'm currently building. It will become public very soon.
 
 ### 🛠️ What I Do
 
