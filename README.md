@@ -7,6 +7,18 @@
 * 💬 Ask me about: Whatever comes to you mind.   Bottom line
 I am a developer focused on building efficient, scalable solutions. This repository is a glimpse into how I think, how I code, and what I'm currently building. It will become public very soon.
 
+### 🎓 Teaching & Certification Expertise
+
+Beyond building systems, I am an active instructor and subject matter expert across a range of industry-recognized certifications. I teach and mentor students through both foundational and advanced material in networking, security, Linux, and virtualization.
+
+| Domain | Certifications & Courses |
+| :--- | :--- |
+| **Networking** | ![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white) ![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-C8202A?style=flat&logo=comptia&logoColor=white) |
+| **Security** | ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202A?style=flat&logo=comptia&logoColor=white) ![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-C8202A?style=flat&logo=comptia&logoColor=white) ![CompTIA PenTest+](https://img.shields.io/badge/CompTIA-PenTest%2B-C8202A?style=flat&logo=comptia&logoColor=white) ![CompTIA CASP+](https://img.shields.io/badge/CompTIA-CASP%2B-C8202A?style=flat&logo=comptia&logoColor=white) ![EC-Council CEH](https://img.shields.io/badge/EC--Council-CEH-CC0000?style=flat&logoColor=white) |
+| **IT Fundamentals** | ![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-C8202A?style=flat&logo=comptia&logoColor=white) ![CompTIA ITF+](https://img.shields.io/badge/CompTIA-ITF%2B-C8202A?style=flat&logo=comptia&logoColor=white) ![CompTIA Cloud+](https://img.shields.io/badge/CompTIA-Cloud%2B-C8202A?style=flat&logo=comptia&logoColor=white) |
+| **Linux** | ![LPIC-1](https://img.shields.io/badge/LPI-LPIC--1-FCC624?style=flat&logo=linux&logoColor=black) ![LPIC-2](https://img.shields.io/badge/LPI-LPIC--2-FCC624?style=flat&logo=linux&logoColor=black) |
+| **Virtualization** | ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white) |
+
 ### 🛠️ What I Do
 
 I specialize in Full-Stack and Security-related actions.
