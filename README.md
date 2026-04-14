@@ -4,7 +4,7 @@
 - 😄 Pronouns: ... Seriously ???? - "Code is like humor. When you have to explain it, it’s bad."
 * 🔭 I’m currently working on: VetBattleBuddy.ai
 * 🌱 I’m currently learning: Microsoft Certified: Azure Solutions Architect Expert (AZ-305) as well as a few other Certificates 
-* 💬 Ask me about: Whatever comes to you mind.   Bottom line
+* 💬 Ask me about: Whatever comes to your mind.   Bottom line
 I am a developer focused on building efficient, scalable solutions. This repository is a glimpse into how I think, how I code, and what I'm currently building. It will become public very soon.
 
 ### 🎓 Teaching & Certification Expertise
