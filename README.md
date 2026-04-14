@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VETReaper
-- 👀 I’m interested in ... Veteran Issues, Tech, coding, AI, football, my service dog. God and Family are my #1 priority in my life. They are the reason I abuilding this system.
+- 👀 I’m interested in ... Veteran Issues, Tech, coding, AI, football, my service dog. God and Family are my #1 priority in my life. They are the reason I am building VetBattleBuddy 
 - 🌱 I’m currently working on ... THE SYSTEM for Veterans
 - 😄 Pronouns: ... Seriously ???? - "Code is like humor. When you have to explain it, it’s bad."
 * 🔭 I’m currently working on: VetBattleBuddy.ai
