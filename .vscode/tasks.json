@@ -1,0 +1,89 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "python: create venv",
+      "type": "shell",
+      "command": "python",
+      "args": [
+        "-m",
+        "venv",
+        ".venv"
+      ]
+    },
+    {
+      "label": "python: install dev deps",
+      "type": "shell",
+      "command": ".venv\\Scripts\\python.exe",
+      "args": [
+        "-m",
+        "pip",
+        "install",
+        "-r",
+        "requirements-dev.txt"
+      ],
+      "dependsOn": "python: create venv"
+    },
+    {
+      "label": "python: lint",
+      "type": "shell",
+      "command": ".venv\\Scripts\\python.exe",
+      "args": [
+        "-m",
+        "ruff",
+        "check",
+        "."
+      ],
+      "dependsOn": "python: install dev deps",
+      "group": "test"
+    },
+    {
+      "label": "python: format",
+      "type": "shell",
+      "command": ".venv\\Scripts\\python.exe",
+      "args": [
+        "-m",
+        "ruff",
+        "format",
+        "."
+      ],
+      "dependsOn": "python: install dev deps"
+    },
+    {
+      "label": "python: test",
+      "type": "shell",
+      "command": ".venv\\Scripts\\python.exe",
+      "args": [
+        "-m",
+        "pytest"
+      ],
+      "dependsOn": "python: install dev deps",
+      "group": "test"
+    },
+    {
+      "label": "make: install",
+      "type": "shell",
+      "command": "make",
+      "args": ["install"]
+    },
+    {
+      "label": "make: lint",
+      "type": "shell",
+      "command": "make",
+      "args": ["lint"]
+    },
+    {
+      "label": "make: format",
+      "type": "shell",
+      "command": "make",
+      "args": ["format"]
+    },
+    {
+      "label": "make: test",
+      "type": "shell",
+      "command": "make",
+      "args": ["test"],
+      "group": "test"
+    }
+  ]
+}

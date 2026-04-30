@@ -1,3 +1,38 @@
+# Developer Contract
+
+> **What this repo is:** A classroom-ready Python starter repo demonstrating a real `src` layout, working tests, linting, formatting, and CI — ready for serious development.
+
+## Requirements
+
+- Python 3.11+
+- Git
+- `make` (Linux/macOS/WSL) — Windows users: use the **VS Code Tasks** instead
+
+## Quickstart (Linux / macOS / WSL)
+
+```bash
+git clone <repo-url> && cd TBirdPIT
+make install   # creates .venv and installs dev deps
+make test      # runs pytest — should be green
+```
+
+## Dev Workflow
+
+| Task | Make | VS Code Task |
+|---|---|---|
+| Install deps | `make install` | `python: install dev deps` |
+| Run tests | `make test` | `python: test` |
+| Lint | `make lint` | `python: lint` |
+| Format | `make format` | `python: format` |
+
+## Rules
+
+1. `make test` must pass before every commit.
+2. Never commit `.env` — copy `.env.example` to `.env` and fill in values.
+3. Keep `src/tbirdpit/` for source code; `tests/` for tests.
+4. Pre-commit hooks enforce lint + format automatically (`pre-commit install`).
+
+---
 - 👋 Hi, I’m @VETReaper
 - 👀 I’m interested in ... Veteran Issues, Tech, coding, AI, football, my service dog. God and Family are my #1 priority in my life. They are the reason I am building VetBattleBuddy 
 - 🌱 I’m currently working on ... THE SYSTEM for Veterans

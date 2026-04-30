@@ -1,0 +1,33 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+
+      - name: Create virtual environment
+        run: python3 -m venv .venv
+
+      - name: Install dev dependencies
+        run: .venv/bin/pip install --upgrade pip && .venv/bin/pip install -r requirements-dev.txt
+
+      - name: Lint (ruff)
+        run: .venv/bin/python -m ruff check .
+
+      - name: Format check (ruff format)
+        run: .venv/bin/python -m ruff format --check .
+
+      - name: Test (pytest)
+        run: .venv/bin/python -m pytest

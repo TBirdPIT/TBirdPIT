@@ -1,0 +1,30 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor/temporary artifacts
+*.tmp
+*.temp
+*.swp
+*~
+
+# Local VS Code transient state
+.vscode/.history/
+.vscode/*.log
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.python-version
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+dist/
+build/
+*.egg-info/
