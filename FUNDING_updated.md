@@ -28,14 +28,6 @@ Your support helps us:
 
 ---
 
-## 🙌 Ways to Support
-
-- 💖 [Sponsor us on GitHub](https://github.com/sponsors/ttcl-vector127)
-
-- 🌐 [Donate directly]https://www.paypal.com/ncp/payment/5GMETF6TR4YCJ
-
----
-
 ## 🫡 Thank You
 
 Every contribution—big or small—helps us build a better future for those who served. Thank you for standing with our veterans.
@@ -43,4 +35,8 @@ Every contribution—big or small—helps us build a better future for those who
 
 ## 📲 Donate via PayPal
 Scan the QR code below to donate directly via PayPal:
+https://www.paypal.com/ncp/payment/5GMETF6TR4YCJ
+
 Donation QR on webpage provided above.
+<img width="500" height="561" alt="Donate-qrcode" src="https://github.com/user-attachments/assets/243372c0-59ef-43a0-bb29-c608d19b4471" />
+
