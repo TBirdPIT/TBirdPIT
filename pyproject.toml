@@ -1,10 +1,37 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tbirdpit"
+version = "0.1.0"
+description = "Utility helpers for local Python + Azure workflows"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "Apache-2.0" }
+authors = [{ name = "TBirdPIT" }]
+keywords = ["azure", "python", "utilities", "developer-tools"]
+
+[project.urls]
+Homepage = "https://github.com/TBirdPIT/TBirdPIT"
+Repository = "https://github.com/TBirdPIT/TBirdPIT"
+
+[project.scripts]
+tbirdpit = "tbirdpit.hello:main"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
 [tool.black]
-line-length = 88
-target-version = ["py314"]
+line-length = 100
+target-version = ["py311", "py312", "py313", "py314"]
 
 [tool.ruff]
-line-length = 88
-target-version = "py314"
+line-length = 100
+target-version = "py311"
 
 [tool.ruff.lint]
 select = ["E", "F", "I", "UP", "B"]

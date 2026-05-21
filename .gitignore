@@ -28,3 +28,39 @@ venv/
 dist/
 build/
 *.egg-info/
+
+# Coverage and test artifacts
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Azure and cloud local state
+.azure/
+.azd/
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# AI and model artifacts
+.cache/huggingface/
+.cache/torch/
+*.onnx
+*.safetensors
+*.pt
+*.pth
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+
+# Node/tooling artifacts (for polyglot projects)
+node_modules/
+pnpm-lock.yaml.bak
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
