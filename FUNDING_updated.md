@@ -32,7 +32,7 @@ Your support helps us:
 
 - 💖 [Sponsor us on GitHub](https://github.com/sponsors/ttcl-vector127)
 
-- 🌐 [Donate directly](https://ttcl.pro)
+- 🌐 [Donate directly]https://www.paypal.com/ncp/payment/5GMETF6TR4YCJ
 
 ---
 
