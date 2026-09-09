@@ -66,3 +66,5 @@ I design and ship Python + Azure + full-stack platforms with a mission-first min
 
 > Bio suggestion for GitHub profile settings:
 > Veteran engineer building secure AI systems that improve veteran outcomes with Python, Azure, and full-stack architecture.
+> <img width="800" height="800" alt="blackblackvbb" src="https://github.com/user-attachments/assets/4ad8ce97-af19-4920-98ed-a58adfc84111" />
+
