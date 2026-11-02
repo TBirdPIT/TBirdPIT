@@ -59,7 +59,7 @@ I design and ship Python + Azure + full-stack platforms with a mission-first min
 ## How to Reach Me / Let's Connect
 
 - GitHub: [@TBirdPIT](https://github.com/TBirdPIT)
-- LinkedIn: add your profile link here
+- LinkedIn: https://www.linkedin.com/in/ttcl 
 - Collaboration: open an issue in this repository for technical discussions and ideas
 <img width="800" height="800" alt="blackblackvbb" src="https://github.com/user-attachments/assets/8989978c-89e0-48ff-8822-fb46b905af84" />
 
